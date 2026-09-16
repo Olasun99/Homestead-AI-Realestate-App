@@ -1,0 +1,6 @@
+{
+  "name": "Homestead Real Estate Hub",
+  "description": "A high-converting professional real estate web application featuring interactive search, listing comparisons, agent CRM dashboards, and AI-powered brochure generation with Google Slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
